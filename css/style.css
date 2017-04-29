@@ -13,15 +13,15 @@ section{
 }
 
 .em-brand{
-	color: #D500F9;
+	color: #EE4266;
 }
 
-.col-md-4{
+.col-md-4{file:///C:/Users/garyn/Desktop/bootstrap-basic-photo-app-website/index.html
 	margin-bottom: 20px;
 }
 
 .jumbotron{
-	background: #4A148C url(../img/site_showcase_bg.jpg) no-repeat top center;
+	background: #EE4266 url(../img/site_showcase_bg.jpg) no-repeat top center;
 	color: #fff;
 	height: 500px;
 	overflow: none;
@@ -49,7 +49,7 @@ img.demo{
 }
 
 section#feature{
-	background: #D500F9;
+	background: #EE4266;
 	color: #fff;
 	padding: 40px;
 	overflow: auto;
@@ -70,7 +70,7 @@ section#title-bar{
 	padding: 0;
 	margin: 0;
 	height: 80px;
-	background:#D500F9;
+	background:#EE4266;
 	color: #fff;
 }
 
@@ -157,9 +157,22 @@ footer p{
 		padding-top: 20px; 
 	}
 
+
+
 /*
 A100 #EA80FC
 A200 #E040FB
 A400 #D500F9
 A700 #AA00FF
+*/
+
+
+/*
+	color: #EE4266;
+	#F1FAEE;
+	#A8DADC;
+	#457B9D;
+	#1D3557;
+
+
 */
